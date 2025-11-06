@@ -10,7 +10,7 @@
 <body>
 
     <?php
-    /*
+    
 
     // Definir un array con los modulos del curso 2º DAW
      $modulos = ["Entorno Servidor", "Entorno cliente", "Ingles"];
@@ -66,7 +66,7 @@
     }
     echo "";
 
-    */
+    
 
     ?>
 
